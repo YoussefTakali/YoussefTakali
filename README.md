@@ -96,8 +96,8 @@ const youssef = {
 
 ### 🔥 Highlighted Repositories
 
-<a href="https://github.com/YoussefTakali/espritgithub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousseftakali&repo=project1&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/YoussefTakali/Job-Scrapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousseftakali&repo=Job-Scrapper&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/yousseftakali/project2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousseftakali&repo=project2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
