@@ -14,29 +14,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`
+```javascript
 const youssef = {
-    pronouns: "He" | "Him",
-    code: ["Java", "TypeScript", "JavaScript", "Python", "PHP"],
-    askMeAbout: ["Web Dev", "Backend Architecture", "DevOps", "APIs"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Angular", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            java: ["Spring Boot", "Spring Security"],
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "FastAPI"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "Postman", "Figma", "VS Code"]
+  pronouns: "He" | "Him",
+  code: ["Java", "TypeScript", "JavaScript", "Python", "PHP"],
+  askMeAbout: ["Web Dev", "Backend Architecture", "DevOps", "APIs"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Angular", "Vue"],
+      css: ["Tailwind", "Bootstrap", "Material-UI"]
     },
-    currentFocus: "Building scalable microservices architecture",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    backEnd: {
+      java: ["Spring Boot", "Spring Security"],
+      js: ["Node.js", "Express", "NestJS"],
+      python: ["Django", "FastAPI"]
+    },
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+    tools: ["Git", "Postman", "Figma", "VS Code"]
+  },
+  currentFocus: "Building scalable microservices architecture",
+  funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
-\`\`\`
+```
 
 <br clear="both">
 
