@@ -99,14 +99,10 @@ const youssef = {
 <a href="https://github.com/YoussefTakali/Job-Scrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousseftakali&repo=Job-Scrapper&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
-<br />
-**Job-Scrapper** — Multithreaded Angular & Django scraping tool with proxy rotation, handling 1000+ concurrent requests.
-
 <a href="https://github.com/YoussefTakali/espritgithub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousseftakali&repo=espritgithub&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
-<br />
-**espritgithub** — GitHub-integrated Angular & Spring Boot platform for task submissions and real-time contribution tracking.
+
 
 
 </div>
