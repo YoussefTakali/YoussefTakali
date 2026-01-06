@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Youssef Takali
+#  Hello, I'm Youssef Takali
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Java+%7C+Spring+Boot+%7C+Angular+Expert;Node.js+%7C+NestJS+Enthusiast;DevOps+%26+Cloud+Architecture;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 
