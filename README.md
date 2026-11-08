@@ -53,12 +53,12 @@ Before QA, I built full-stack web platforms with **Angular, React, Spring Boot, 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**DeliveryOps**](https://github.com/YoussefTakali/deliveryops) | Multi-agent AI platform for AMS/TMA delivery teams: 9 orchestrated agents and 3 assistants for onboarding, pre-billing, COPIL, coverage matrices and capacity planning. Generates Office deliverables, and a human validates every decision. Built for the Capgemini ER&D Tunisia hackathon | FastAPI · LangGraph · Angular · PostgreSQL + pgvector · Keycloak · MCP |
+| [**Jobify**](https://github.com/YoussefTakali/jobify) | AI job matching: pulls offers from legal job APIs worldwide, ranks them with NVIDIA Nemotron, writes a tailored CV and cover letter, runs mock interviews, and fills application forms through a browser extension | Spring Boot · Angular · LLM · Chrome extension |
 | [**OculixLibrary**](https://github.com/YoussefTakali/oculix) | Robot Framework keyword library for image-based UI automation. Drives SikuliX through Py4J, with remote execution over VNC | Python · Robot Framework · SikuliX |
 | [**EspritHub**](https://github.com/YoussefTakali/esprithub) | Student project-management platform: GitHub OAuth, signature-validated webhooks syncing commits / branches / releases, role-based modules | Angular · Spring Boot · PostgreSQL · Redis · Docker |
 | [**Hyprland Desktop**](https://github.com/YoussefTakali/hyprland-dotfiles) | My custom Fedora desktop with a graphical installer so anyone can set it up: Quickshell lock screen, Waybar, rofi, adaptive theming | Shell · QML |
-| [**AssainissementPro**](https://github.com/YoussefTakali/assainissement-pro) | Field-operations platform for sanitation companies: mission calendar, proof-of-work tracking, gamification, HR | Angular · Spring Boot · PostgreSQL |
-| [**Job Scraper**](https://github.com/YoussefTakali/Job-Scrapper) | Multithreaded job-board scraper with proxy / Tor circuit rotation and a dashboard | Angular · Django · Python |
-| [**Rapido**](https://github.com/YoussefTakali/rapido) | Full-stack web app with JWT auth and refresh tokens | Angular · NestJS · Prisma |
+| [**Rapido**](https://github.com/YoussefTakali/rapido) | Quote and CRM platform for a moving company: volume calculator, quotes priced by floors / elevator / furniture lift, clients, agenda, notifications | Angular · NestJS · Prisma · PostgreSQL |
 | [**DeepSearch**](https://github.com/YoussefTakali/deepsearch) | Fast cross-platform file search with SQLite indexing and live file monitoring | Python |
 
 ---
