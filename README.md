@@ -2,8 +2,9 @@
 
 # Hi, I'm Youssef Takali 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Java+%7C+Spring+Boot+%7C+Angular;Node.js+%7C+NestJS+%7C+Django;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=QA+Automation+Engineer+%40+Capgemini+Engineering;Robot+Framework+%7C+SikuliX+%7C+Playwright;Full-Stack%3A+Angular+%7C+Spring+Boot+%7C+NestJS;Software+Engineering+Student+%40+ESPRIT" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousseftakali-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousseftakali)
 <img src="https://komarev.com/ghpvc/?username=yousseftakali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
@@ -12,19 +13,16 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Full-stack developer and software engineering student at **Esprit**. I build web platforms end to end — Angular / React on the front, Spring Boot / NestJS / Django on the back — and I like making Linux desktops look good.
+ISTQB-certified **QA Automation Engineer** at **Capgemini Engineering**. I automate tests for Citrix-based enterprise applications, where standard DOM locators aren't available, using Robot Framework, SikuliX and Playwright (Java, Page Object Model). The suites run as quality gates in Jenkins and GitHub Actions.
 
-```javascript
-const youssef = {
-  pronouns: ["he", "him"],
-  code: ["Java", "TypeScript", "JavaScript", "Python", "PHP"],
-  askMeAbout: ["Web Dev", "Backend Architecture", "DevOps", "APIs"],
-  currentFocus: "Microservices with Spring Boot & test automation",
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+Before QA, I built full-stack web platforms with **Angular, React, Spring Boot, NestJS and Node.js**, and I still do. I'm also studying for a software engineering degree at **ESPRIT**.
+
+- 🔭 Currently: Robot Framework ↔ Squash TM ↔ Jira integration for real-time test-to-defect traceability
+- 🌱 Learning: AI-assisted test automation and agentic AI workflows
+- 🐧 Daily driver: Fedora + Hyprland (my own setup, see below)
+- 🌍 Languages: Arabic (native) · English · French · Swedish (basic)
 
 <br clear="both">
 
@@ -34,14 +32,18 @@ const youssef = {
 
 <div align="center">
 
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript,html,css,tailwind,bootstrap,sass" />
+**Test Automation**<br>
+<img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/SikuliX-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Squash%20TM-E5332A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
-**Backend**<br>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,python,django,php,laravel,graphql" />
+**Development**<br>
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,typescript,javascript,angular,react,nodejs,express,nestjs,prisma" />
 
-**Databases & DevOps**<br>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,prisma,docker,kubernetes,aws,git,linux" />
+**Databases, DevOps & Systems**<br>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,rabbitmq,linux,fedora,git" />
 
 </div>
 
@@ -51,75 +53,69 @@ const youssef = {
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**EspritHub**](https://github.com/YoussefTakali/esprithub) | Student project-management platform with GitHub integration: repo browsing, commits, task submission, admin / teacher / student roles | Angular · Spring Boot · PostgreSQL · Redis · Docker |
-| [**AssainissementPro**](https://github.com/YoussefTakali/mouhab) | Field-operations platform for sanitation companies: mission calendar, proof-of-work tracking, gamification, HR | Angular · Spring Boot · PostgreSQL |
+| [**OculixLibrary**](https://github.com/YoussefTakali/oculix) | Robot Framework keyword library for image-based UI automation. Drives SikuliX through Py4J, with remote execution over VNC | Python · Robot Framework · SikuliX |
+| [**EspritHub**](https://github.com/YoussefTakali/esprithub) | Student project-management platform: GitHub OAuth, signature-validated webhooks syncing commits / branches / releases, role-based modules | Angular · Spring Boot · PostgreSQL · Redis · Docker |
+| [**Hyprland Desktop**](https://github.com/YoussefTakali/hyprland-dotfiles) | My custom Fedora desktop with a graphical installer so anyone can set it up: Quickshell lock screen, Waybar, rofi, adaptive theming | Shell · QML |
+| [**AssainissementPro**](https://github.com/YoussefTakali/assainissement-pro) | Field-operations platform for sanitation companies: mission calendar, proof-of-work tracking, gamification, HR | Angular · Spring Boot · PostgreSQL |
+| [**Job Scraper**](https://github.com/YoussefTakali/Job-Scrapper) | Multithreaded job-board scraper with proxy / Tor circuit rotation and a dashboard | Angular · Django · Python |
 | [**Rapido**](https://github.com/YoussefTakali/rapido) | Full-stack web app with JWT auth and refresh tokens | Angular · NestJS · Prisma |
-| [**Job Scraper**](https://github.com/YoussefTakali/Job-Scrapper) | Multithreaded job-listing scraper with proxy rotation and a dashboard | Angular · Django · Python |
 | [**DeepSearch**](https://github.com/YoussefTakali/deepsearch) | Fast cross-platform file search with SQLite indexing and live file monitoring | Python |
-| [**Hyprland Desktop**](https://github.com/YoussefTakali/hyprland-dotfiles) | My Fedora Hyprland setup: Quickshell lock screen, Waybar, rofi, adaptive wallust theming, one-command installer | Shell · QML |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousseftakali&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseftakali&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseftakali&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
 
 ---
 
 ## 🧭 Experience
 
 <details>
-<summary><b>Show work experience</b></summary>
+<summary><b>Show experience</b></summary>
 
-### 💼 UmanlinkGroup Digital Services
-**Full-Stack Developer** | *Sep 2024 – Feb 2025*
-- Built a multithreaded web scraping system handling 1000+ concurrent requests
-- Achieved a 95% performance improvement over the legacy solution
-- **Stack:** Angular, Django, Python, PostgreSQL
+### 🧪 QA Automation Engineer — Capgemini Engineering
+*Dec 2025 – Present · Tunis*
+- Test automation for Citrix-based enterprise applications, using SikuliX image-based automation where DOM locators are unavailable
+- Robot Framework suites for functional and regression testing, extended with my own OculixLibrary
+- Playwright test automation in Java following the Page Object Model
+- Robot Framework – Squash TM – Jira integration: auto-detects tests, maps them to Squash TM test cases, syncs status in real time and links results to Jira defects
+- Automated suites run as pre-deployment quality gates in Jenkins and GitHub Actions; I also mentor incoming interns
 
-### 🚴 Bike-Based Recruitment Platform
-**Lead Developer** | *Oct 2024 – Nov 2024*
-- Developed a MEAN-stack platform for delivery-agent recruitment
-- Implemented real-time GPS tracking and route optimization
-- **Stack:** MongoDB, Express, Angular, Node.js
+### 💻 Software Developer & QA Contributor — UmanlinkGroup Digital Services
+*Sep 2024 – May 2025 · Tunis*
+- Architected three e-commerce platforms with unit and integration testing built into the workflow
+- Built a MEAN recruitment platform connecting 500+ bike delivery agents with real-time geolocation and dynamic routing
+- Built an automated client-discovery system processing 200+ leads per month (+40% conversion)
+- Built a multithreaded job-board scraper with Tor circuit rotation: 20× faster, 1,000+ concurrent requests
 
-### 🎯 Sfectoria
-**Frontend Developer** | *Jan 2024 – Jun 2024*
-- Created a modular HR management system with clean architecture
-- Containerized the development environment with Docker
-- **Stack:** React.js, NestJS, PostgreSQL, Docker
+### 🧰 Freelance QA & Full-Stack Developer — Pixel Pulsar
+*2023 – 2025 · Remote*
+- Manual and automated functional, regression and UI testing for web-app clients
+- Delivered full-stack web apps and mentored junior developers and interns
 
-### 🎓 Esprit — EspritHub
-**Full-Stack Developer** | *May 2024 – Jun 2024*
-- Integrated the GitHub API for automated repository management
-- Built a real-time contribution tracking dashboard
-- **Stack:** Angular, Spring Boot, PostgreSQL, GitHub API
+### ⚙️ Backend Developer — Sfectoria
+*Dec 2023 – Jun 2024 · Tunis*
+- Points-based resource management platform with NestJS and Prisma serving 500+ users
+- Containerized services with Docker: 70% faster deployments, 99.9% uptime
 
-### ⚡ Atlax
-**Frontend Optimization** | *Aug 2023 – Oct 2023*
-- Raised the PageSpeed Insights score to 90
-- Implemented lazy loading, code splitting and image optimization
-- **Stack:** React.js, Webpack
+### 🎨 Frontend Developer — Atlax
+*Jun 2023 – Sep 2023 · Tunis*
+- Led the company website in React.js (+45% user engagement)
+- Cross-browser and performance work: 95+ PageSpeed score, 40% faster load time
 
 </details>
 
 ---
 
-## 🎯 Currently Learning
+## 🎓 Education & Certifications
 
-- Spring Boot microservices (API gateway, config server, service discovery)
-- Test automation with Robot Framework & Python
-- CI/CD pipelines and containerized deployments
+**Engineering Degree in Software Engineering**, ESPRIT · *expected 2028*<br>
+**Bachelor's Degree in Computer Science**, Higher Institute of Computer Science, Ariana · *2024*
+
+<img src="https://img.shields.io/badge/ISTQB-CTFL-1F4E79?style=flat" /> <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/DevOps-Certified-2496ED?style=flat" /> <img src="https://img.shields.io/badge/AI%20Foundation-Activate-6E40C9?style=flat" /> <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-B22222?style=flat" />
 
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
-
-📫 Reach me through [GitHub](https://github.com/YoussefTakali) — always happy to talk code.
-
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousseftakali&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseftakali&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseftakali&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
