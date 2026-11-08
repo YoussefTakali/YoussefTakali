@@ -1,45 +1,96 @@
-<img src="assets/banner.svg" width="100%" alt="Youssef Takali">
+<p align="center">
+  <a href="https://linkedin.com/in/yousseftakali"><picture><source media="(max-width: 600px)" srcset="assets/header-m.svg"><img src="assets/header.svg" width="100%" alt="Youssef Takali, QA automation engineer at Capgemini Engineering in Tunis"></picture></a>
+</p>
 
-I'm a QA automation engineer at Capgemini Engineering in Tunis, and a software engineering student at ESPRIT.
+<p align="center">
+  <picture><source media="(max-width: 600px)" srcset="assets/about-m.svg"><img src="assets/about.svg" width="100%" alt="Software engineering student at ESPRIT, writing code since 2023, on Fedora with Hyprland. Robot Framework, SikuliX, Playwright, Squash TM, Java, Spring Boot, Python, FastAPI, Django, Angular, React, NestJS, Node.js, TypeScript, Docker, Kubernetes, Jenkins, GitHub Actions."></picture>
+</p>
 
-At work I automate tests for Citrix applications. There is no DOM to target there, so it's mostly image-based automation with Robot Framework and SikuliX, plus Playwright in Java for the web side, all running in Jenkins and GitHub Actions. Before that I spent a few years building web apps, and I still do on the side.
+<p align="center">
+  <a href="https://github.com/YoussefTakali?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/bar-projects-m.svg"><img src="assets/bar-projects.svg" width="100%" alt="Search my repositories"></picture></a>
+</p>
 
-## Projects
+<p align="center">
+  <a href="https://github.com/YoussefTakali/deliveryops"><picture><source media="(max-width: 600px)" srcset="assets/p-deliveryops-m.svg"><img src="assets/p-deliveryops.svg" width="100%" alt="DeliveryOps: multi-agent platform for application-maintenance teams"></picture></a>
+</p>
 
-### [DeliveryOps](https://github.com/YoussefTakali/deliveryops)
-A multi-agent platform for application-maintenance teams. The agents read a project's real data (Jira exports, the contract, timesheets, meeting transcripts) and prepare the pre-invoice, the steering committee deck and the capacity plan. Nothing is applied until a person approves it. Built with FastAPI, LangGraph, Angular and PostgreSQL with pgvector for the Capgemini ER&D Tunisia hackathon.
+<p align="center">
+  <a href="https://github.com/YoussefTakali/jobify"><picture><source media="(max-width: 600px)" srcset="assets/p-jobify-m.svg"><img src="assets/p-jobify.svg" width="100%" alt="Jobify: AI job matching"></picture></a>
+</p>
 
-<a href="https://github.com/YoussefTakali/deliveryops"><img src="assets/deliveryops.png" width="100%" alt="DeliveryOps agent orchestration"></a>
+<p align="center">
+  <a href="https://github.com/YoussefTakali/esprithub"><picture><source media="(max-width: 600px)" srcset="assets/p-esprithub-m.svg"><img src="assets/p-esprithub.svg" width="100%" alt="EspritHub: project platform for ESPRIT on the GitHub API"></picture></a>
+</p>
 
-### [Jobify](https://github.com/YoussefTakali/jobify)
-Pulls job offers from public job APIs, ranks them against my CV with an LLM, and drafts a CV and cover letter for the good ones. Spring Boot and Angular, with a browser extension that fills in application forms.
+<p align="center">
+  <a href="https://github.com/YoussefTakali/hyprland-dotfiles"><picture><source media="(max-width: 600px)" srcset="assets/p-hyprland-m.svg"><img src="assets/p-hyprland.svg" width="100%" alt="Hyprland desktop: Fedora dotfiles with a graphical installer"></picture></a>
+</p>
 
-### [EspritHub](https://github.com/YoussefTakali/esprithub)
-A project platform for ESPRIT students and teachers, built on the GitHub API: OAuth login, webhooks that keep commits and branches in sync, separate spaces for students, teachers and admins. Angular, Spring Boot, PostgreSQL. Built with two classmates.
+<p align="center">
+  <a href="https://github.com/YoussefTakali/deepsearch"><picture><source media="(max-width: 600px)" srcset="assets/p-deepsearch-m.svg"><img src="assets/p-deepsearch.svg" width="100%" alt="DeepSearch: file search tool"></picture></a>
+</p>
 
-### [Hyprland desktop](https://github.com/YoussefTakali/hyprland-dotfiles)
-My Fedora setup, with a graphical installer so anyone can use it. Custom lock screen, Waybar, and colours that follow the wallpaper.
+<p align="center">
+  <picture><source media="(max-width: 600px)" srcset="assets/bar-experience-m.svg"><img src="assets/bar-experience.svg" width="100%" alt="Experience"></picture>
+</p>
 
-<a href="https://github.com/YoussefTakali/hyprland-dotfiles"><img src="https://raw.githubusercontent.com/YoussefTakali/hyprland-dotfiles/main/assets/desktop.png" width="100%" alt="Hyprland desktop screenshot"></a>
+<details>
+<summary><b>QA Automation Engineer</b>, Capgemini Engineering, <i>Dec 2025 to present</i></summary>
+<br>
 
-### [DeepSearch](https://github.com/YoussefTakali/deepsearch)
-A file search tool in Python that indexes folders into SQLite and supports fuzzy and full-text search.
+- Test automation for Citrix-based enterprise applications, using SikuliX image-based automation where DOM locators are unavailable
+- Robot Framework suites for functional and regression testing, extended with my own OculixLibrary
+- Playwright test automation in Java following the Page Object Model
+- Robot Framework to Squash TM to Jira integration: auto-detects tests, maps them to Squash TM test cases, syncs status in real time and links results to Jira defects
+- Automated suites run as pre-deployment quality gates in Jenkins and GitHub Actions; I also mentor incoming interns
 
-## What I use
+</details>
+<details>
+<summary><b>Software Developer & QA Contributor</b>, UmanlinkGroup Digital Services, <i>Sep 2024 to May 2025</i></summary>
+<br>
 
-- **Testing:** Robot Framework, SikuliX, Playwright, Squash TM, Jira
-- **Backend:** Java and Spring Boot, Python (FastAPI, Django), NestJS
-- **Frontend:** Angular, React, TypeScript
-- **Ops:** Docker, Kubernetes, Jenkins, GitHub Actions, Linux
+- Architected three e-commerce platforms with unit and integration testing built into the workflow
+- Built a MEAN recruitment platform connecting 500+ bike delivery agents with real-time geolocation and dynamic routing
+- Built an automated client-discovery system processing 200+ leads per month (+40% conversion)
+- Built a multithreaded job-board scraper with Tor circuit rotation: 20× faster, 1,000+ concurrent requests
 
-## Experience
+</details>
+<details>
+<summary><b>Freelance QA & Full-Stack Developer</b>, Pixel Pulsar, <i>2023 to 2025</i></summary>
+<br>
 
-- **QA Automation Engineer**, Capgemini Engineering, Dec 2025 to now
-- **Software Developer**, UmanlinkGroup Digital Services, Sep 2024 to May 2025
-- **Freelance Developer**, Pixel Pulsar, 2023 to 2025
-- **Backend Developer**, Sfectoria, Dec 2023 to Jun 2024
-- **Frontend Developer**, Atlax, Jun 2023 to Sep 2023
+- Manual and automated functional, regression and UI testing for web-app clients
+- Delivered full-stack web apps and mentored junior developers and interns
 
-Engineering degree at ESPRIT (expected 2028), bachelor's in computer science from ISI Ariana (2024). ISTQB CTFL and CCNA certified.
+</details>
+<details>
+<summary><b>Backend Developer</b>, Sfectoria, <i>Dec 2023 to Jun 2024</i></summary>
+<br>
 
-I speak Arabic, English, French and a bit of Swedish. The easiest way to reach me is [LinkedIn](https://linkedin.com/in/yousseftakali).
+- Points-based resource management platform with NestJS and Prisma serving 500+ users
+- Containerized services with Docker: 70% faster deployments, 99.9% uptime
+
+</details>
+<details>
+<summary><b>Frontend Developer</b>, Atlax, <i>Jun 2023 to Sep 2023</i></summary>
+<br>
+
+- Led the company website in React.js (+45% user engagement)
+- Cross-browser and performance work: 95+ PageSpeed score, 40% faster load time
+
+</details>
+
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yousseftakali"><picture><source media="(max-width: 600px)" srcset="assets/footer-m.svg"><img src="assets/footer.svg" width="100%" alt="Let's talk: linkedin.com/in/yousseftakali"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yousseftakali"><picture><source media="(max-width: 600px)" srcset="assets/o-linkedin-m.svg"><img src="assets/o-linkedin.svg" width="18%" alt="LinkedIn"></picture></a>
+  <a href="https://github.com/YoussefTakali"><picture><source media="(max-width: 600px)" srcset="assets/o-github-m.svg"><img src="assets/o-github.svg" width="18%" alt="GitHub"></picture></a>
+  <a href="https://github.com/YoussefTakali/deliveryops"><picture><source media="(max-width: 600px)" srcset="assets/o-deliveryops-m.svg"><img src="assets/o-deliveryops.svg" width="18%" alt="DeliveryOps"></picture></a>
+  <a href="https://github.com/YoussefTakali/jobify"><picture><source media="(max-width: 600px)" srcset="assets/o-jobify-m.svg"><img src="assets/o-jobify.svg" width="18%" alt="Jobify"></picture></a>
+  <a href="https://github.com/YoussefTakali/hyprland-dotfiles"><picture><source media="(max-width: 600px)" srcset="assets/o-dotfiles-m.svg"><img src="assets/o-dotfiles.svg" width="18%" alt="Hyprland dotfiles"></picture></a>
+</p>
